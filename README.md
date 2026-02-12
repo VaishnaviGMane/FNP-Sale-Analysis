@@ -46,16 +46,19 @@ Product & Regional Performance
 •	Regional demand insights can guide logistics optimization, warehouse placement, and city-specific marketing strategies.
 ________________________________________
 Interactivity & Decision Support
+
 •	Dynamic filters for Delivery Date, Order Date, and Occasion allow stakeholders to drill down into specific periods or events.
 •	The dashboard enables quick identification of trends, outliers, and performance gaps without requiring technical expertise.
 ________________________________________
 Business Impact & Recommendations
+
 •	Improve revenue in low-performing occasions (Diwali, Valentine’s Day) through targeted offers and personalized marketing.
 •	Leverage peak ordering hours with flash deals and optimized delivery staffing.
 •	Focus inventory and promotions on high-performing products and cities to maximize ROI.
 •	Use seasonal insights to plan marketing calendars and demand forecasting.
 ________________________________________
 Conclusion
+
 This Sales Analysis Dashboard provides a comprehensive, actionable view of business performance, enabling management to make informed decisions across sales strategy, marketing, operations, and customer engagement. It transforms raw sales data into meaningful insights that directly support revenue growth and operational efficiency.
 
 
