@@ -1,5 +1,7 @@
 # FNP-Sale-Analysis
 
+<img width="1542" height="704" alt="FNP Dashboard" src="https://github.com/user-attachments/assets/08d97666-1776-447d-91a2-8e53e644c857" />
+
  Sales Analysis Dashboard (FNP)
 Project Overview
 This project delivers an interactive Sales Analysis Dashboard designed to provide leadership with a clear, data-driven view of business performance across time, products, occasions, and geography. The dashboard consolidates order, revenue, customer spending, and delivery performance metrics to support strategic decision-making, demand planning, and marketing optimization.
